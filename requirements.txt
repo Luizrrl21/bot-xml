@@ -1,4 +1,4 @@
 selenium
-webdriver_manager
+webdriver-manager.chrome
 os
 shutil
